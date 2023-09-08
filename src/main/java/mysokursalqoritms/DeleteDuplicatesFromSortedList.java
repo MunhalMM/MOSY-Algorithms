@@ -1,3 +1,5 @@
+package mysokursalqoritms;
+
 public class DeleteDuplicatesFromSortedList {
     public static void main(String[] args) {
     }
